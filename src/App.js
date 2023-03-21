@@ -1,5 +1,5 @@
+import React from 'react';
 import './App.css';
-import Example from './components/TestHeader';
 import Navbar from './components/Navbar';
 
 function App() {
