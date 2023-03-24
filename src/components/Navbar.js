@@ -16,7 +16,7 @@ const Navbar = () => {
 
   return (
     <>
-    <div className="px-5 pt-6 lg:px-8">
+    <div className="px-5 pt-6 max-w-7xl mr-auto mb-0 ml-auto lg:px-8">
         <nav className="flex items-center justify-between" aria-label="Global">
           <div className="flex lg:flex-1 lg:justify-center">
             <a href="#" className="-m-1.5 p-1.5">
